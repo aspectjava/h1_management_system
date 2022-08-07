@@ -1,1 +1,5 @@
-Test git hub
+Git Hub/ GIT :
+
+- Git hub/Git is a repository management tool.
+- Git provide shared repository to team so that we can place our at one common place.
+- GIT is a source code management system
